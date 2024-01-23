@@ -42,11 +42,11 @@ body * {
 #profile {
     text-align: center;
     padding: 24px;
-
 }
 #profile img {
     width: 112px;
     margin: auto;
+    border-radius: 50%;
 }
 #profile p {
     font-weight: 400;
